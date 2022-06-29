@@ -74,7 +74,7 @@ a {
     transition-property: background-color;
 }
 .sidebar ul li:hover {
-    background-color: #2FA4FF;
+    background-color: #00FFDD;
 }
 #check:checked ~ .sidebar {
     left: 0;
